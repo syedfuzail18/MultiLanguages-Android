@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">बहुभाषी</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="hellow_how_are_you">हैलो आप कैसे हैं!!</string>
+    <string name="spanish">स्पेनिश</string>
+    <string name="example">लोरम इप्सम केवल मुद्रण और टंकण उद्योग का डमी पाठ है। लोरम इप्सम 1500 के दशक से कभी भी उद्योग का मानक डमी पाठ रहा है, जब एक अज्ञात प्रिंटर ने एक प्रकार की गली ली और एक प्रकार की पुस्तक बनाने के लिए इसे तराशा। यह न केवल पांच शताब्दियों तक जिया</string>
+    <string name="language_error">यह भाषा पहले से ही चयनित है</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi lenguaje</string>
+    <string name="english">Inglesa</string>
+    <string name="hindi">Hindi</string>
+    <string name="hellow_how_are_you">Hola como estas!!</string>
+    <string name="spanish">Español</string>
+    <string name="example">Lorem Ipsum es simplemente un texto ficticio de la industria de impresión y composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el año 1500, cuando una impresora desconocida tomó una galera de tipo y la mezcló para hacer un libro de muestras. Ha sobrevivido no solo cinco siglos</string>
+    <string name="language_error">Este idioma ya está seleccionado</string>
+</resources>
