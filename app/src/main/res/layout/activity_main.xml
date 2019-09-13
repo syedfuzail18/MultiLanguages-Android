@@ -13,23 +13,23 @@
     android:layout_marginTop="50dp">
     <Button
         android:id="@+id/btn_english"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/english"/>
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@mipmap/uk"/>
 
     <Button
         android:id="@+id/btn_hindi"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/hindi"/>
+        android:layout_width="65dp"
+        android:layout_margin="10dp"
+        android:layout_height="65dp"
+        android:background="@mipmap/india"/>
     <Button
         android:id="@+id/btn_spanish"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/spanish"/>
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@mipmap/spain"/>
 
 </LinearLayout>
     <TextView
